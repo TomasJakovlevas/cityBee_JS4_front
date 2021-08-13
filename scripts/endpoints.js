@@ -1,4 +1,4 @@
-const host = 'https://nodejs-citybee-atsiskaitymas.herokuapp.com';
+const host = 'https://nodejs-citybee.herokuapp.com/';
 
 export const ALL_MODELS_URI = `${host}/models/`;
 export const GET_ALL_MODELS_WITH_COUNT_URI = `${host}/modelscount/`;
